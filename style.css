@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    border: 2px solid black;
+    margin: auto;
+    width: 500px;
+    height: 652px;
+    margin-top: 10px;
+}
+
+.foto{
+    border: 2px solid black;
+    display: inline-block;
+    height: 200px;
+    width: 185px;
+    padding-left: 10px;
+}
+
+a{
+    border: 2px solid black;
+    display: block;
+    width: fit-content;
+    padding: 15px;
+    color: blue;
+}
+
+.nome{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.cg{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.em{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.p1{
+    border: 1px solid black;
+    margin-bottom: 40px;
+}
+
+.p2{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.a1, .a2{
+    display: inline-block;
+    border: 2px solid black;
+    height: 95px;
+    width: 95px;
+}
+
+.a2{
+    margin-left: -20px;
+}
+
+footer{
+    border: 2px solid black;
+    margin: 10px 20px 30px 40px;
+}
